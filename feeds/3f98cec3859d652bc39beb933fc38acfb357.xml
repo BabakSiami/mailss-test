@@ -4,9 +4,9 @@
         <description><![CDATA[Generated from your Mail.tm inbox for newsletter RSS reading]]></description>
         <link>https://docs.mail.tm</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 12:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 12:12:19 GMT</lastBuildDate>
         <atom:link href="https://babaksiami.github.io/mailss-test/feeds/3f98cec3859d652bc39beb933fc38acfb357.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 12:12:10 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 12:12:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>1</ttl>
         <item>
@@ -78,38 +78,6 @@ FlightAware]]></description>
             <guid isPermaLink="false">042829dd-acad-4c50-8b1e-b1e54c8f1600:69dcd9a900876f35d198f3ed</guid>
             <dc:creator><![CDATA[Flight activity (alerts@flightaware.com)]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 11:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Innlogging på FINN.no AS fra en ny enhet]]></title>
-            <description><![CDATA[Et varsel for sikkerhets
-skyld.‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-BS
-
-bsvarslingertest@deltajo...
-
-Ny innlogging på FINN.no AS med kontoen din
-Kontoen din har blitt brukt til å logge inn på FINN.no AS fra en ny enhet. Hvis
-det er du som har logget deg inn, kan du trygt se bort fra denne e-posten.
-
-Ny innlogging:
-
-Enhet: Windows
-
-Tidspunkt: 13:54:36
-
-Dato: 13.04.2026
-
-Nettleser/app: Chrome
-
-Hvor: FINN.no AS
-
-Var det ikke du som logget deg inn?
-Hvis det ikke var deg som logget inn, beskytt kontoen din ved å endre
-e-postkonto-passordet ditt�]]></description>
-            <link>https://babaksiami.github.io/mailss-test/feeds/3f98cec3859d652bc39beb933fc38acfb357.xml</link>
-            <guid isPermaLink="false">042829dd-acad-4c50-8b1e-b1e54c8f1600:69dcd97d4f4b6aa47ff50284</guid>
-            <dc:creator><![CDATA[Vend-konto (account@vend.com)]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 11:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
