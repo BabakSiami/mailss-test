@@ -4,11 +4,39 @@
         <description><![CDATA[Generated from your Mail.tm inbox for newsletter RSS reading]]></description>
         <link>https://docs.mail.tm</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 12:06:07 GMT</lastBuildDate>
         <atom:link href="https://babaksiami.github.io/mailss-test/feeds/3f98cec3859d652bc39beb933fc38acfb357.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 10:21:07 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 12:06:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>1</ttl>
+        <item>
+            <title><![CDATA[HKS313 arrived at SVG from SVG]]></title>
+            <description><![CDATA[CHC Helikopter Service #313 arrived at Stavanger, Sola (SVG) at 08:57AM CEST from Stavanger, Sola (SVG) after 1:20 en route
+
+For more information visit https://www.flightaware.com/live/flight/HKS313/history/20260415/0543Z/ENZV/ENZV 
+
+To edit or disable these alerts please visit https://www.flightaware.com/account/manage/alerts/ 
+
+FlightAware]]></description>
+            <link>https://babaksiami.github.io/mailss-test/feeds/3f98cec3859d652bc39beb933fc38acfb357.xml</link>
+            <guid isPermaLink="false">042829dd-acad-4c50-8b1e-b1e54c8f1600:69df372065364a0e2795a7ff</guid>
+            <dc:creator><![CDATA[FlightAware Alerts (alerts@flightaware.com)]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 06:58:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HKS165 arrived at SVG from SVG]]></title>
+            <description><![CDATA[CHC Helikopter Service #165 arrived at Stavanger, Sola (SVG) at 08:23AM CEST from Stavanger, Sola (SVG) after 1:33 en route
+
+For more information visit https://www.flightaware.com/live/flight/HKS165/history/20260415/0449Z/ENZV/ENZV 
+
+To edit or disable these alerts please visit https://www.flightaware.com/account/manage/alerts/ 
+
+FlightAware]]></description>
+            <link>https://babaksiami.github.io/mailss-test/feeds/3f98cec3859d652bc39beb933fc38acfb357.xml</link>
+            <guid isPermaLink="false">042829dd-acad-4c50-8b1e-b1e54c8f1600:69df2f0e5c6971d2d8a2aaeb</guid>
+            <dc:creator><![CDATA[FlightAware Alerts (alerts@flightaware.com)]]></dc:creator>
+            <pubDate>Wed, 15 Apr 2026 06:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HKS38X arrived at ABZ from ABZ]]></title>
             <description><![CDATA[CHC Helikopter Service #38X arrived at Aberdeen (ABZ) at 02:45PM BST from Aberdeen (ABZ) after 4:44 en route
