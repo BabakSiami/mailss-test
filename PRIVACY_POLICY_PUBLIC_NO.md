@@ -40,4 +40,4 @@ Bruker kan slette data ved å:
 3. Eventuelt fjerne utvidelsen fra nettleseren
 
 ## Kontakt
-For spørsmål: kontakt Babak Siami på Slack.
+For spørsmål: [kontakt Babak Siami.](mailto: babak.siami@fvn.no)
